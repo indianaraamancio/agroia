@@ -1,6 +1,7 @@
 # agroia
 Files from the Agro.IA question-answering system: RAG pipeline; data ingestion; ROUGE-1 metric data.
 
+# agroia_rag.zip
 To run it, you must give execution permission to the .sh files with:
 chmod +x final_script.sh
 chmod +x script.sh
