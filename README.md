@@ -1,4 +1,4 @@
-# agroia
+# agroia - Question-answering System for Field Technicians using Artificial Intelligence
 Files from the Agro.IA question-answering system: RAG pipeline; data ingestion; ROUGE-1 metric data.
 
 # agroia_rag.zip
