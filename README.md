@@ -1,5 +1,5 @@
 # agroia - Question-answering System for Field Technicians using Artificial Intelligence
-Files from the Agro.IA question-answering system: RAG pipeline; data ingestion; ROUGE-1 metric data.
+Files from the Agro.IA question-answering system: RAG pipeline; data ingestion; ROUGE-1 metric data; Expert evaluation of the candidate answers in each experimental scenario.
 
 # agroia_rag.zip
 To run it, you must give execution permission to the .sh files with:
